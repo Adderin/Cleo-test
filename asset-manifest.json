@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cleo-test/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/cleo-test/static/js/main.8b58dbab.chunk.js",
+    "main.js.map": "/cleo-test/static/js/main.8b58dbab.chunk.js.map",
+    "runtime-main.js": "/cleo-test/static/js/runtime-main.4e567a5f.js",
+    "runtime-main.js.map": "/cleo-test/static/js/runtime-main.4e567a5f.js.map",
+    "static/js/2.c848ebd3.chunk.js": "/cleo-test/static/js/2.c848ebd3.chunk.js",
+    "static/js/2.c848ebd3.chunk.js.map": "/cleo-test/static/js/2.c848ebd3.chunk.js.map",
+    "index.html": "/cleo-test/index.html",
+    "precache-manifest.c7be8586b8d07604c8ed410204383f6b.js": "/cleo-test/precache-manifest.c7be8586b8d07604c8ed410204383f6b.js",
+    "service-worker.js": "/cleo-test/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/cleo-test/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.c848ebd3.chunk.js.LICENSE.txt": "/cleo-test/static/js/2.c848ebd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e567a5f.js",
+    "static/js/2.c848ebd3.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.8b58dbab.chunk.js"
+  ]
+}
